@@ -1,3 +1,5 @@
+# Author: Alvin Dandeebo
+
 from tkinter import *
 import pandas as pd
 import random
